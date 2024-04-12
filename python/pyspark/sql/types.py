@@ -847,7 +847,7 @@ class StructField(DataType):
     nullable : bool, optional
         whether the field can be null (None) or not.
     metadata : dict, optional
-        a dict from string to simple type that can be toInternald to JSON automatically
+        a dict from string to simple type that can be translated to JSON automatically
 
     Examples
     --------
